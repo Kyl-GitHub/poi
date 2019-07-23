@@ -6,17 +6,17 @@
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi</artifactId>
-            <version>${poi.version}</version>
+            <version>3.9</version>
         </dependency>
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml</artifactId>
-            <version>${poi.version}</version>
+            <version>3.9</version>
         </dependency>
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml-schemas</artifactId>
-            <version>${poi.version}</version>
+            <version>3.9</version>
         </dependency>
 
 **通过构造方法初始化导出的表格对象的公共内容，例：表格标题，表格表头等**
